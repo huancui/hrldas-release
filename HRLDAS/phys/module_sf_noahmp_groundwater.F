@@ -9,6 +9,7 @@ MODULE module_sf_noahmp_groundwater
 
 CONTAINS
 
+! TEST hh
   SUBROUTINE WTABLE_mmf_noahmp (NSOIL     ,XLAND    ,XICE    ,XICE_THRESHOLD  ,ISICE ,& !in
                                 ISLTYP    ,SMOISEQ  ,DZS     ,WTDDT                  ,& !in
                                 FDEPTH    ,AREA     ,TOPO    ,ISURBAN ,IVGTYP        ,& !in
